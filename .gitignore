@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+logs/
+plugins/includes/secrets.py
